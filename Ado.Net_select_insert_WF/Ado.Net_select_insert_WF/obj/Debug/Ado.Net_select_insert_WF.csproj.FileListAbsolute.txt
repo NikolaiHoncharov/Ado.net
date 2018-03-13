@@ -1,0 +1,18 @@
+c:\users\nikc\documents\visual studio 2015\Projects\Ado.Net_select_insert_WF\Ado.Net_select_insert_WF\bin\Debug\Ado.Net_select_insert_WF.exe.config
+c:\users\nikc\documents\visual studio 2015\Projects\Ado.Net_select_insert_WF\Ado.Net_select_insert_WF\bin\Debug\Ado.Net_select_insert_WF.exe
+c:\users\nikc\documents\visual studio 2015\Projects\Ado.Net_select_insert_WF\Ado.Net_select_insert_WF\bin\Debug\Ado.Net_select_insert_WF.pdb
+c:\users\nikc\documents\visual studio 2015\Projects\Ado.Net_select_insert_WF\Ado.Net_select_insert_WF\obj\Debug\Ado.Net_select_insert_WF.csprojResolveAssemblyReference.cache
+c:\users\nikc\documents\visual studio 2015\Projects\Ado.Net_select_insert_WF\Ado.Net_select_insert_WF\obj\Debug\Ado.Net_select_insert_WF.Form1.resources
+c:\users\nikc\documents\visual studio 2015\Projects\Ado.Net_select_insert_WF\Ado.Net_select_insert_WF\obj\Debug\Ado.Net_select_insert_WF.Properties.Resources.resources
+c:\users\nikc\documents\visual studio 2015\Projects\Ado.Net_select_insert_WF\Ado.Net_select_insert_WF\obj\Debug\Ado.Net_select_insert_WF.csproj.GenerateResource.Cache
+c:\users\nikc\documents\visual studio 2015\Projects\Ado.Net_select_insert_WF\Ado.Net_select_insert_WF\obj\Debug\Ado.Net_select_insert_WF.exe
+c:\users\nikc\documents\visual studio 2015\Projects\Ado.Net_select_insert_WF\Ado.Net_select_insert_WF\obj\Debug\Ado.Net_select_insert_WF.pdb
+C:\Users\Nikc\Desktop\Ado.Net_select_insert_WF\Ado.Net_select_insert_WF\bin\Debug\Ado.Net_select_insert_WF.exe.config
+C:\Users\Nikc\Desktop\Ado.Net_select_insert_WF\Ado.Net_select_insert_WF\obj\Debug\Ado.Net_select_insert_WF.exe
+C:\Users\Nikc\Desktop\Ado.Net_select_insert_WF\Ado.Net_select_insert_WF\obj\Debug\Ado.Net_select_insert_WF.pdb
+C:\Users\Nikc\Desktop\Ado.Net_select_insert_WF\Ado.Net_select_insert_WF\bin\Debug\Ado.Net_select_insert_WF.exe
+C:\Users\Nikc\Desktop\Ado.Net_select_insert_WF\Ado.Net_select_insert_WF\bin\Debug\Ado.Net_select_insert_WF.pdb
+C:\Users\Nikc\Desktop\Ado.Net_select_insert_WF\Ado.Net_select_insert_WF\obj\Debug\Ado.Net_select_insert_WF.csprojResolveAssemblyReference.cache
+C:\Users\Nikc\Desktop\Ado.Net_select_insert_WF\Ado.Net_select_insert_WF\obj\Debug\Ado.Net_select_insert_WF.Form1.resources
+C:\Users\Nikc\Desktop\Ado.Net_select_insert_WF\Ado.Net_select_insert_WF\obj\Debug\Ado.Net_select_insert_WF.Properties.Resources.resources
+C:\Users\Nikc\Desktop\Ado.Net_select_insert_WF\Ado.Net_select_insert_WF\obj\Debug\Ado.Net_select_insert_WF.csproj.GenerateResource.Cache
